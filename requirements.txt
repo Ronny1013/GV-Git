@@ -7,4 +7,12 @@ ipympl
 ipyvolume
 scipy
 plotly-express
+matplotlib
+numpy
+seaborn
+panel
+altair
+datetime
+folium
+ipywidgets
 voila
